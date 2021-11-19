@@ -16,6 +16,7 @@ namespace PhantomsSackOSigils
             AddDeathMarked();
             AddDrinkMe();
             AddEatMe();
+            AddPlague();
         }
     }
 }
