@@ -5,6 +5,7 @@ bin/
 .vs/
 .vscode/
 lib/Assembly-CSharp.dll
+lib/Sirenix.Serialization.dll
 Builds/
 icon.png
 manifest.json
