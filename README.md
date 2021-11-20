@@ -18,4 +18,4 @@ To install this plugin first you need to install BepInEx as a mod loader for Ins
 You will also need to install the [CardLoaderPlugin](https://github.com/ScottWilson0903/InscryptionAPI)
 To install Inscryption API you simply need to copy **API.dll** from [releases](https://github.com/ScottWilson0903/InscryptionAPI/releases) to **Inscryption/BepInEx/plugins**.
 
-To install PhantomsSackOSigils.dll you simply need to copy **PhantomsSackOSigils.dll** and the **Artwork** folder from the source code zip in [releases](https://github.com/Hannah-Sloan/PhantomsSackOSigils/releases/tag/1.0.0) to a **PhantomsSackOSigils** folder inside **Inscryption/BepInEx/plugins**.
+To install PhantomsSackOSigils.dll you simply need to copy **PhantomsSackOSigils.dll** and the **Artwork** folder from the source code zip in [releases](https://github.com/Hannah-Sloan/PhantomsSackOSigils/releases/tag/1.1.0) to a **PhantomsSackOSigils** folder inside **Inscryption/BepInEx/plugins**.
