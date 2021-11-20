@@ -4,6 +4,7 @@ Discount sigils! Getcha discount sigils here! Best sigils money can buy!
 - Desperate: A creature that bears this sigil has power equal to its missing Health.
 - Drink Me: A creature gains 1 power and loses 1 health when summoned using a creature bearing this sigil, as a sacrifice.
 - Eat Me: A creature loses 1 power and gains 1 health when summoned using a creature bearing this sigil, as a sacrifice.
+- Plague: Creature bearing this sigil dies after 3 rounds. It also infects adjacent cards.
 
 ## Installation (automated)
 This is the recommended way to install the API on the game.
